@@ -1,0 +1,17 @@
+{
+	"name": "FileServer1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "\"C:\\Users\\tejas\\Downloads\\CRM+Sales+Opportunities\"",
+			"userId": "Tejaswini",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI1N2UwYWUwMS0yNmUzLTQ4NDQtYmYzNS0xM2E0NjIwNGFlYjQiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "azureintegrationRuntime",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

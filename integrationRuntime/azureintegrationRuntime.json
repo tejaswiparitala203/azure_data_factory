@@ -1,0 +1,6 @@
+{
+	"name": "azureintegrationRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "tejaswinifactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2d2a1a19-c168-4af1-8338-27297d391cf9",
+		"tenantId": "dc07e55d-3978-4a7d-a43a-835c020b469f"
+	}
+}
